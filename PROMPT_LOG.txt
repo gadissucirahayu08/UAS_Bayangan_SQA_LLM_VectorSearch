@@ -1,0 +1,10 @@
+=== LOG PROMPT EKSPERIMEN UAS BAYANGAN SQA ===
+
+1. Prompt Replikasi Statistik (ATM Paper Collante et al., 2025):
+"Buatkan skrip Python untuk melakukan analisis statistik perbandingan Pull Request GPT-Assisted dan Non-Assisted menggunakan uji non-parametrik Mann-Whitney U (alpha = 0.05) serta pemodelan Multiple Linear Regression (OLS) dengan transformasi log1p pada variabel kontrol (no_commits, PR_size, no_changed_files, project_age) dan visualisasi boxplot."
+
+2. Prompt Modifikasi AI Vector Search (Integrasi Materi Oracle Academy Database 23ai):
+"Buatkan eksperimen perbandingan deteksi Pull Request berbantuan AI antara pendekatan baseline Keyword/Regex dengan pendekatan Semantic Vector Similarity Search menggunakan model embedding all-MiniLM-L6-v2 dan Cosine Similarity, lalu hitung metrik Accuracy, Precision, Recall, dan F1-Score."
+
+3. Prompt Pipeline RAG (Retrieval Augmented Generation) Code Review:
+"Berdasarkan 5 riwayat Pull Request serupa yang diambil melalui AI Vector Search pada Oracle Database 23ai berikut: [Top-5 Context dari Database], analisis potongan kode PR baru ini, identifikasi potensi bug atau error handling yang terlewat, dan berikan saran refactoring yang ringkas tanpa halusinasi."
